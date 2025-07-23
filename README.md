@@ -2,4 +2,6 @@
 
 Repository containing 3D models for the MultispeQ project. 
 
-- Pairing holder CaliQ to Li-Cor PAR 
+- Pairing holder CaliQ to Li-Cor PAR
+- Multispeq case design
+- Multispeq tripod
